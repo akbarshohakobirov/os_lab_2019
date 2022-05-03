@@ -1,4 +1,4 @@
-  #ifndef FIND_MIN_MAX_H
+#ifndef FIND_MIN_MAX_H
 #define FIND_MIN_MAX_H
 
 #include "utils.h"
